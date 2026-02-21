@@ -1,5 +1,5 @@
 {
-    "latest_version":  "1.0.6",
+    "latest_version":  "1.0.7",
     "installer_script_url":  "https://brandonr56.github.io/spc-tracker-updates/install_spc_from_usb.ps1",
-    "standalone_zip_url":  "https://brandonr56.github.io/spc-tracker-updates/SPC_Tracker_v1.0.6_windows_standalone.zip"
+    "standalone_zip_url":  "https://brandonr56.github.io/spc-tracker-updates/SPC_Tracker_v1.0.7_windows_standalone.zip"
 }
